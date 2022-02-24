@@ -60,7 +60,7 @@ app.post('/data', (req, res) => {
 
         res.json({
 
-            success: false, message: "UNDEFINED DATA ENTERED"
+            success: false, message: "UNDEFINED DATA ENTERED PLEASE CHECK"
 
         })
 
